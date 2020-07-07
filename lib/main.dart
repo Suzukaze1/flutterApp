@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:wisatabandung/detail_screen.dart';
+import 'package:wisatabandung/second_screen.dart';
 
 void main() {
   runApp(MyApp());
