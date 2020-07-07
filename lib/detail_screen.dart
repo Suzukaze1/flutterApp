@@ -36,7 +36,7 @@ class DetailScreen extends StatelessWidget {
                         IconButton(
                           icon: Icon(Icons.arrow_back),
                           onPressed: (){
-                            Navigator.pop(context);
+                            Navigator.pop(context) ;
                           },
                         ),
                         FavoriteButton(),
